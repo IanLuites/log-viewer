@@ -3,6 +3,7 @@
   "version": "0.0.2",
   "description": "A simple Material UI log viewer.",
   "main": "dist/index.js",
+  "homepage": "https://github.com/IanLuites/log-viewer",
   "repository": "https://github.com/IanLuites/log-viewer",
   "author": "Ian Luites",
   "license": "MIT",
@@ -13,6 +14,7 @@
     "distinct-colors": "^1.0.4"
   },
   "peerDependencies": {
+    "@material-ui/core": "^3.9.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   },
